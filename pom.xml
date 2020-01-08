@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!--
 
-       Copyright 2010-2019 the original author or authors.
+       Copyright 2010-2020 the original author or authors.
 
        Licensed under the Apache License, Version 2.0 (the "License");
        you may not use this file except in compliance with the License.
@@ -35,9 +35,9 @@
   <url>http://www.mybatis.org</url>
 
   <scm>
-    <url>http://github.com/mybatis/jpetstore-6</url>
-    <connection>scm:git:ssh://github.com/mybatis/jpetstore-6.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/mybatis/jpetstore-6.git</developerConnection>
+    <url>http://github.com/enginates/jpetstore-6</url>
+    <connection>scm:git:ssh://github.com/enginates/jpetstore-6.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/enginates/jpetstore-6.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
@@ -51,11 +51,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://nexusip/repository/maven-snapshots/</url>
+      <url>http://172.31.2.247/repository/maven-snapshots/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
-      <url>http://nexusip/repository/maven-releases/</url>
+      <url>http://172.31.2.247/repository/maven-releases/</url>
     </repository>
   </distributionManagement>
 
